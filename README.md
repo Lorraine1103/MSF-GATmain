@@ -17,8 +17,6 @@ The most important python packages are:
 - hyperopt == 0.2.7
 - numpy == 1.18.2
 
-For using our model more conveniently, we provide the environment file *<environment.txt>* to install environment directly.
-
 
 ---
 # **Command**
